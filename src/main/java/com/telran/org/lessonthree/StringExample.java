@@ -22,6 +22,6 @@ public class StringExample {
         String textOne = "Java!";
         System.out.println(textOne);
         String textTwo = textOne + "Hello!";
-        System.out.println();
+        System.out.println(textTwo);
     }
 }
